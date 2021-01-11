@@ -1,4 +1,13 @@
 # AWS S3 Presigned URL Sample
+
+### Set Up Environment Variables
+```
+export AWS_ACCESS_KEY_ID='AKIASCHPJFR12345678'
+export AWS_SECRET_ACCESS_KEY='abcd......................'
+export AWS_REGION='us-west-2'
+```
+
+### Run
 ```
 $ virtualenv venv
 $ source venv/bin/activate
